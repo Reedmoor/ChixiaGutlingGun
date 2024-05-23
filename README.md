@@ -1,0 +1,1 @@
+This C++ program automatically performs keyboard and mouse actions when a specific mouse button is pressed. The program runs an infinite loop, waiting for the `XBUTTON2` (typically a side button on a mouse) to be pressed, and then simulates a key press ('G') and a mouse click (left button).
